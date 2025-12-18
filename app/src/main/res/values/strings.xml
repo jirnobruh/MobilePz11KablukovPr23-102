@@ -6,4 +6,5 @@
     <string name="clock">Часы</string>
     <string name="hour">Стрелка</string>
     <string name="cloud">Облако</string>
+    <string name="meteor">Метеорит</string>
 </resources>
